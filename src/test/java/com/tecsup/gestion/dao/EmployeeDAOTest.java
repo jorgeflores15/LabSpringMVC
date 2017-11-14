@@ -116,11 +116,11 @@ public class EmployeeDAOTest {
 
 		logger.info("--");
 		
-		String LOGIN = "aromero" + (int) (Math.random() * 100);
+		String LOGIN = "jflores" + (int) (Math.random() * 100);
 		//logger.info(LOGIN);
 		String PWD = "123";
-		String FIRSTNAME = "Alberto";
-		String LASTNAME = "Romero";
+		String FIRSTNAME = "Jorge";
+		String LASTNAME = "Flores";
 		int SALARY = 3000;
 		int DEPT_ID = 14;
 
