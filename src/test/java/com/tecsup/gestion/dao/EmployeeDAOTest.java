@@ -110,7 +110,7 @@ public class EmployeeDAOTest {
 		}
 
 	}
-
+/*
 	@Test
 	public void testCreateEmployee() {
 
@@ -142,7 +142,7 @@ public class EmployeeDAOTest {
 			fail(e.getMessage());
 		}
 
-	}
+	}*/
 
 	
 	
