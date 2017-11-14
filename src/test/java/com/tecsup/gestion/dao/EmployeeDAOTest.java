@@ -142,10 +142,8 @@ public class EmployeeDAOTest {
 			fail(e.getMessage());
 		}
 
-	}*/
+	}
 
-	
-	
 	@Test
 	public void testUpdateEmployee() {
 
@@ -183,7 +181,7 @@ public class EmployeeDAOTest {
 
 	}
 	
-	
+	*/
 	@Test
 	public void testDeleteEmployee() {
 
